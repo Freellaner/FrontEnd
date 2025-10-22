@@ -2,7 +2,7 @@
 
 import React from 'react';
 import { Link, NavLink } from 'react-router-dom';
-import logoImage from '../assets/images/logo.png'; // Certifique-se de que a sua logo está neste caminho
+import logoImage from '../assets/images/Logo.png'; // Certifique-se de que a sua logo está neste caminho
 
 const Sidebar = () => {
   return (
