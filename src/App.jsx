@@ -31,7 +31,7 @@ import InviteFreelancerPage from './pages/InviteFreelancerPage.jsx'; // Inclua o
 
 function App() {
   return (
-    <BrowserRouter basename="/freellaner-plataforma">
+    <BrowserRouter>
       <AuthProvider>
         <Routes>
           {/* --- ROTAS PÚBLICAS --- */}
