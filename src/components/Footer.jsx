@@ -2,7 +2,7 @@
 
 import React from 'react';
 import { Link } from 'react-router-dom';
-import logoImage from '../assets/images/logo.png'; // Verifique se o caminho do logo está correto
+import logoImage from '../assets/images/Logo.png'; // Verifique se o caminho do logo está correto
 import '../assets/styles/footer.css'; // Vamos criar este arquivo de estilo a seguir
 
 const Footer = () => {
