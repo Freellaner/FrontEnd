@@ -5,7 +5,7 @@ import { useParams, Link } from 'react-router-dom';
 
 // Importe o CSS da página de detalhes do projeto, pois o layout é similar
 import '../assets/styles/projectDetails.css'; 
-import '../assets/styles/inviteFreelancer.css'; // Criaremos este CSS simples a seguir
+import '../assets/styles/InviteFreelancer.css'; // Criaremos este CSS simples a seguir
 
 // Dados mockados do Freelancer (Substitua pela sua API de busca)
 const mockFreelancer = {
